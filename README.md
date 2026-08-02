@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
+| [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
 <!---LeetCode Topics End-->
