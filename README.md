@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sam-ruddhi18/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 ## Breadth-First Search
@@ -60,9 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
