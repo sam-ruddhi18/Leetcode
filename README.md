@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sam-ruddhi18/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Binary Search
@@ -50,9 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
