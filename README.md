@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/sam-ruddhi18/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Binary Search
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sam-ruddhi18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/sam-ruddhi18/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
