@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sam-ruddhi18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sam-ruddhi18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam-ruddhi18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sam-ruddhi18/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sam-ruddhi18/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sam-ruddhi18/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -91,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sam-ruddhi18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sam-ruddhi18/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/sam-ruddhi18/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/sam-ruddhi18/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
