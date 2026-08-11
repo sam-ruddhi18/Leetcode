@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/sam-ruddhi18/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sam-ruddhi18/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sam-ruddhi18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
