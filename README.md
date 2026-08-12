@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sam-ruddhi18/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sam-ruddhi18/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/sam-ruddhi18/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [2765-longest-alternating-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/2765-longest-alternating-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2765-longest-alternating-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/2765-longest-alternating-subarray) |
 <!---LeetCode Topics End-->
