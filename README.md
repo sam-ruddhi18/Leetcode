@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sam-ruddhi18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sam-ruddhi18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam-ruddhi18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/sam-ruddhi18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sam-ruddhi18/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/sam-ruddhi18/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sam-ruddhi18/Leetcode/tree/master/0493-reverse-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sam-ruddhi18/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/sam-ruddhi18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Prefix Sum
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2765-longest-alternating-subarray](https://github.com/sam-ruddhi18/Leetcode/tree/master/2765-longest-alternating-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sam-ruddhi18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
